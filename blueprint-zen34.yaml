@@ -15,7 +15,7 @@ blueprint:
         device:
           integration: zwave_js
           manufacturer: Zooz
-          model: ZEN34
+          label: ZEN34
 
     1x_tap_up:
       name: Tap up 1x
