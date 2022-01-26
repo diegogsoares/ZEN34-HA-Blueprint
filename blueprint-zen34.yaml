@@ -14,6 +14,7 @@ blueprint:
       selector:
         device:
           integration: zwave_js
+          manufacturer: Zooz
           
     1x_tap_up:
       name: Tap up 1x
